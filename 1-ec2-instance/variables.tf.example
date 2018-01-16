@@ -11,7 +11,3 @@ variable "aws_secret_key" {
 variable "aws_region" {
   default = "us-west-2"
 }
-
-variable "linux_ami" {
-  default = "ami-1ee65166"
-}
